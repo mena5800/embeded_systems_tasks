@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658441298 source:c:\users\a\desktop\embeded systems\tasks\session 4,5\right-angle-triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+

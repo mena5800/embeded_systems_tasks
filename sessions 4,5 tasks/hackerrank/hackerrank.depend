@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658435908 source:c:\users\a\desktop\embeded systems\tasks\session 4,5\hackerrank\main.c
+	<stdio.h>
+	<stdlib.h>
+

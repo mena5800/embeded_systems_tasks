@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658445655 source:c:\users\a\desktop\embeded systems\tasks\session 4,5\sum-digits-of-integer\main.c
+	<stdio.h>
+	<stdlib.h>
+
